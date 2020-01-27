@@ -12,7 +12,7 @@ body header{
     background-color: black;
 }
 
-header .nav-menu{
+header .nav-menu ul{
     margin: 0;
 }
 
